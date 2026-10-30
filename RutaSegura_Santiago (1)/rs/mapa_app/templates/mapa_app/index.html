@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="referrer" content="strict-origin-when-cross-origin">
+    <meta name="csrf-token" content="{{ csrf_token }}">
+    <title>Ruta Segura Santiago</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+
+    <style>
+{% include "mapa_app/estilos.css" %}
+    </style>
+</head>
+<body>
+    <header class="topbar">
+        <a class="logo" href="/">
+            <svg viewBox="0 0 24 24" width="26" height="26" aria-hidden="true"><path fill="#fff" d="M12 2 4 5v6c0 5 3.4 9.3 8 11 4.6-1.7 8-6 8-11V5l-8-3zm-1 14-3.5-3.5 1.4-1.4L11 13.2l4.1-4.1 1.4 1.4L11 16z"/></svg>
+            <span>Ruta Segura</span>
+        </a>
+        <nav class="nav">
+            <button type="button" class="tab activa" data-tab="ruta">Planificar ruta</button>
+            <button type="button" class="tab" data-tab="capas">Mapa de calor</button>
+            <button type="button" class="tab" data-tab="panico">Botón de pánico</button>
+        </nav>
+        <span class="proyecto">Santiago de Chile</span>
+    </header>
+
+    <div class="app">
+        <aside class="panel">
+
+            <section id="tab-ruta" class="contenido">
+                <h2 class="titulo-panel">Planificar ruta</h2>
+                <div id="aviso-datos" class="aviso"></div>
+
+                <form id="form-ruta" autocomplete="off">
+                    <div class="campo">
+                        <span class="punto verde"></span>
+                        <input type="text" id="origen" placeholder="Origen" aria-label="Origen">
+                        <ul id="lista-origen" class="sugerencias" hidden></ul>
+                    </div>
+                    <div class="campo">
+                        <span class="punto rojo"></span>
+                        <input type="text" id="destino" placeholder="Destino" aria-label="Destino">
+                        <ul id="lista-destino" class="sugerencias" hidden></ul>
+                        <button type="button" id="btn-intercambiar" class="intercambiar" title="Intercambiar origen y destino" aria-label="Intercambiar origen y destino">
+                            <svg viewBox="0 0 24 24" width="20" height="20"><path fill="currentColor" d="M16 17.01V10h-2v7.01h-3L15 21l4-3.99h-3zM9 3 5 6.99h3V14h2V6.99h3L9 3z"/></svg>
+                        </button>
+                    </div>
+
+                    <div class="medios" role="group" aria-label="Medio de transporte">
+                        <button type="button" class="medio activo" data-medio="peaton">
+                            <svg viewBox="0 0 24 24" width="18" height="18"><path fill="currentColor" d="M13.5 5.5a2 2 0 1 0 0-4 2 2 0 0 0 0 4zM9.8 8.9 7 23h2.1l1.8-8 2.1 2v6h2v-7.5l-2.1-2 .6-3A7.3 7.3 0 0 0 19 13v-2c-1.9 0-3.5-1-4.3-2.4l-1-1.6c-.4-.6-1-1-1.7-1-.3 0-.5.1-.8.1L6 8.3V13h2V9.6l1.8-.7"/></svg>
+                            A pie
+                        </button>
+                        <button type="button" class="medio" data-medio="micro">
+                            <svg viewBox="0 0 24 24" width="18" height="18"><path fill="currentColor" d="M4 16c0 .9.4 1.7 1 2.2V20c0 .6.4 1 1 1h1c.6 0 1-.4 1-1v-1h8v1c0 .6.4 1 1 1h1c.6 0 1-.4 1-1v-1.8c.6-.5 1-1.3 1-2.2V6c0-3.5-3.6-4-8-4S4 2.5 4 6v10zm3.5 1a1.5 1.5 0 1 1 0-3 1.5 1.5 0 0 1 0 3zm9 0a1.5 1.5 0 1 1 0-3 1.5 1.5 0 0 1 0 3zM18 11H6V6h12v5z"/></svg>
+                            Micro
+                        </button>
+                        <button type="button" class="medio" data-medio="auto">
+                            <svg viewBox="0 0 24 24" width="18" height="18"><path fill="currentColor" d="M18.9 6c-.2-.6-.8-1-1.4-1h-11c-.7 0-1.2.4-1.4 1L3 12v8c0 .6.4 1 1 1h1c.6 0 1-.4 1-1v-1h12v1c0 .6.4 1 1 1h1c.6 0 1-.4 1-1v-8l-2.1-6zM6.5 16a1.5 1.5 0 1 1 0-3 1.5 1.5 0 0 1 0 3zm11 0a1.5 1.5 0 1 1 0-3 1.5 1.5 0 0 1 0 3zM5 11l1.5-4.5h11L19 11H5z"/></svg>
+                            Auto
+                        </button>
+                    </div>
+                    <button type="submit" class="primario">Buscar ruta</button>
+                </form>
+
+                <div id="estado" class="estado" hidden></div>
+                <div id="resultados"></div>
+                <div id="detalle"></div>
+                <div id="seguros-ruta" class="seguros"></div>
+
+                <div class="bloque">
+                    <h3>Búsquedas recientes</h3>
+                    <ul id="historial" class="historial"></ul>
+                </div>
+            </section>
+
+            <section id="tab-capas" class="contenido" hidden>
+                <h2 class="titulo-panel">Mapa de calor</h2>
+                <div class="bloque">
+                    <h3>Qué mostrar</h3>
+                    <label class="check"><input type="checkbox" id="chk-calor" checked> Mapa de calor</label>
+                    <label class="check"><input type="checkbox" id="chk-zonas" checked> Zonas de riesgo</label>
+                    <label class="check"><input type="checkbox" id="chk-micros" checked> Recorridos de micros</label>
+                    <label class="check"><input type="checkbox" id="chk-paraderos"> Paraderos</label>
+                    <p id="info-paraderos" class="nota"></p>
+                </div>
+
+                <div class="bloque">
+                    <h3>Niveles</h3>
+                    <label class="check"><input type="checkbox" class="chk-nivel" value="Alto" checked> Alto</label>
+                    <label class="check"><input type="checkbox" class="chk-nivel" value="Medio" checked> Medio</label>
+                    <label class="check"><input type="checkbox" class="chk-nivel" value="Bajo" checked> Bajo</label>
+                </div>
+
+                <div class="bloque">
+                    <h3>Ver una micro</h3>
+                    <input type="text" id="buscar-micro" class="simple" placeholder="Número, ej. 210">
+                    <ul id="lista-micros" class="resultados-micro"></ul>
+                    <button type="button" id="btn-quitar-micros" class="secundario">Quitar del mapa</button>
+                </div>
+
+                <div class="bloque">
+                    <h3>Fuentes</h3>
+                    <div id="fuentes" class="fuentes">Cargando...</div>
+                    <p class="nota">El índice de riesgo sirve para comparar rutas entre sí. No es la probabilidad de sufrir un delito.</p>
+                </div>
+            </section>
+
+            <section id="tab-panico" class="contenido" hidden>
+                <h2 class="titulo-panel">Botón de pánico</h2>
+                <div class="bloque">
+                    <p class="nota">Registra tu ubicación aproximada en el sistema y muestra los lugares seguros más cercanos. Esta versión de prueba no envía mensajes a contactos.</p>
+                    <button type="button" id="btn-panico" class="alerta">Registrar alerta</button>
+                    <p id="estado-panico" class="nota"></p>
+                </div>
+                <div class="bloque">
+                    <h3>Lugares seguros cerca</h3>
+                    <p class="nota">Comisarías, hospitales, bomberos, centros comerciales, supermercados, Metro y farmacias cerca de tu punto de origen (o del centro del mapa si no pusiste origen).</p>
+                    <button type="button" id="btn-seguros" class="secundario">Buscar lugares seguros</button>
+                    <div id="lista-seguros-panico" class="seguros"></div>
+                </div>
+                <div class="bloque">
+                    <h3>Números de emergencia en Chile</h3>
+                    <ul class="emergencia">
+                        <li><strong>133</strong> Carabineros</li>
+                        <li><strong>132</strong> Bomberos</li>
+                        <li><strong>131</strong> Ambulancia</li>
+                    </ul>
+                </div>
+            </section>
+        </aside>
+
+        <main id="mapa" aria-label="Mapa de Santiago"></main>
+    </div>
+
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script src="https://unpkg.com/leaflet.heat/dist/leaflet-heat.js"></script>
+    <script>
+{% include "mapa_app/mapa.js" %}
+    </script>
+</body>
+</html>

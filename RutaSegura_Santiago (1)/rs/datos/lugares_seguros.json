@@ -1,0 +1,1927 @@
+[
+ {
+  "tipo": "publico",
+  "categoria": "Lugar público concurrido",
+  "nombre": "Plaza de San Bernardo",
+  "lat": -33.592249,
+  "lon": -70.703689
+ },
+ {
+  "tipo": "hospital",
+  "categoria": "Hospital / centro de salud",
+  "nombre": "CESFAM N°1",
+  "lat": -33.455541,
+  "lon": -70.652386
+ },
+ {
+  "tipo": "hospital",
+  "categoria": "Hospital / centro de salud",
+  "nombre": "Hospital Barros Luco",
+  "lat": -33.483512,
+  "lon": -70.64953
+ },
+ {
+  "tipo": "publico",
+  "categoria": "Lugar público concurrido",
+  "nombre": "Municipalidad de San Miguel",
+  "lat": -33.48547,
+  "lon": -70.650081
+ },
+ {
+  "tipo": "publico",
+  "categoria": "Lugar público concurrido",
+  "nombre": "Municipalidad de La Cisterna",
+  "lat": -33.534053,
+  "lon": -70.66358
+ },
+ {
+  "tipo": "hospital",
+  "categoria": "Hospital / centro de salud",
+  "nombre": "CESFAM Pueblo Lo Espejo",
+  "lat": -33.534431,
+  "lon": -70.696631
+ },
+ {
+  "tipo": "hospital",
+  "categoria": "Hospital / centro de salud",
+  "nombre": "CECOSF Sta. Laura",
+  "lat": -33.546021,
+  "lon": -70.68418
+ },
+ {
+  "tipo": "hospital",
+  "categoria": "Hospital / centro de salud",
+  "nombre": "CECOSF Rivera del Maipo",
+  "lat": -33.648785,
+  "lon": -70.66333
+ },
+ {
+  "tipo": "hospital",
+  "categoria": "Hospital / centro de salud",
+  "nombre": "CESFAM Haydée López",
+  "lat": -33.572581,
+  "lon": -70.66706
+ },
+ {
+  "tipo": "publico",
+  "categoria": "Lugar público concurrido",
+  "nombre": "Plaza de La Pintana",
+  "lat": -33.584307,
+  "lon": -70.628539
+ },
+ {
+  "tipo": "hospital",
+  "categoria": "Hospital / centro de salud",
+  "nombre": "CESFAM El Roble",
+  "lat": -33.563628,
+  "lon": -70.648416
+ },
+ {
+  "tipo": "mall",
+  "categoria": "Centro comercial",
+  "nombre": "Mall Arauco Maipú",
+  "lat": -33.478755,
+  "lon": -70.751672
+ },
+ {
+  "tipo": "hospital",
+  "categoria": "Hospital / centro de salud",
+  "nombre": "Consultorio Dr. Gustavo Molina",
+  "lat": -33.458573,
+  "lon": -70.760765
+ },
+ {
+  "tipo": "hospital",
+  "categoria": "Hospital / centro de salud",
+  "nombre": "CESFAM Arauco",
+  "lat": -33.468057,
+  "lon": -70.670185
+ },
+ {
+  "tipo": "hospital",
+  "categoria": "Hospital / centro de salud",
+  "nombre": "Hospital Traumatológico",
+  "lat": -33.434576,
+  "lon": -70.659247
+ },
+ {
+  "tipo": "hospital",
+  "categoria": "Hospital / centro de salud",
+  "nombre": "CESFAM Julio Acuña Pinzón",
+  "lat": -33.522114,
+  "lon": -70.697355
+ },
+ {
+  "tipo": "mall",
+  "categoria": "Centro comercial",
+  "nombre": "Mall Plaza Oeste",
+  "lat": -33.515863,
+  "lon": -70.715443
+ },
+ {
+  "tipo": "super",
+  "categoria": "Supermercado",
+  "nombre": "Lider",
+  "lat": -33.517816,
+  "lon": -70.708933
+ },
+ {
+  "tipo": "publico",
+  "categoria": "Lugar público concurrido",
+  "nombre": "INACAP",
+  "lat": -33.407376,
+  "lon": -70.680408
+ },
+ {
+  "tipo": "publico",
+  "categoria": "Lugar público concurrido",
+  "nombre": "Plaza Italia",
+  "lat": -33.438124,
+  "lon": -70.63631
+ },
+ {
+  "tipo": "hospital",
+  "categoria": "Hospital / centro de salud",
+  "nombre": "CESFAM Dr. Agustín Cruz Melo",
+  "lat": -33.415873,
+  "lon": -70.657009
+ },
+ {
+  "tipo": "hospital",
+  "categoria": "Hospital / centro de salud",
+  "nombre": "Hospital Clínico U. de Chile",
+  "lat": -33.420927,
+  "lon": -70.655628
+ },
+ {
+  "tipo": "mall",
+  "categoria": "Centro comercial",
+  "nombre": "Mall Barrio Independencia",
+  "lat": -33.425801,
+  "lon": -70.654536
+ },
+ {
+  "tipo": "publico",
+  "categoria": "Lugar público concurrido",
+  "nombre": "Terminal de Buses La Paz",
+  "lat": -33.428859,
+  "lon": -70.651406
+ },
+ {
+  "tipo": "hospital",
+  "categoria": "Hospital / centro de salud",
+  "nombre": "CESFAM Irene Frei de Cid",
+  "lat": -33.365264,
+  "lon": -70.74723
+ },
+ {
+  "tipo": "hospital",
+  "categoria": "Hospital / centro de salud",
+  "nombre": "CESFAM Dra.Ana María Juricic",
+  "lat": -33.513553,
+  "lon": -70.797232
+ },
+ {
+  "tipo": "hospital",
+  "categoria": "Hospital / centro de salud",
+  "nombre": "Hospital Maipú",
+  "lat": -33.509216,
+  "lon": -70.774637
+ },
+ {
+  "tipo": "super",
+  "categoria": "Supermercado",
+  "nombre": "Santa Isabel",
+  "lat": -33.45057,
+  "lon": -70.646923
+ },
+ {
+  "tipo": "hospital",
+  "categoria": "Hospital / centro de salud",
+  "nombre": "Hospital Sn. Borja Arriarán",
+  "lat": -33.460699,
+  "lon": -70.645048
+ },
+ {
+  "tipo": "mall",
+  "categoria": "Centro comercial",
+  "nombre": "Mall Florida Center",
+  "lat": -33.512098,
+  "lon": -70.606052
+ },
+ {
+  "tipo": "hospital",
+  "categoria": "Hospital / centro de salud",
+  "nombre": "CESFAM S.Allende",
+  "lat": -33.355698,
+  "lon": -70.738041
+ },
+ {
+  "tipo": "hospital",
+  "categoria": "Hospital / centro de salud",
+  "nombre": "CECOSF Lumen",
+  "lat": -33.494073,
+  "lon": -70.736041
+ },
+ {
+  "tipo": "hospital",
+  "categoria": "Hospital / centro de salud",
+  "nombre": "CECOSF Futramapu",
+  "lat": -33.539842,
+  "lon": -70.770374
+ },
+ {
+  "tipo": "mall",
+  "categoria": "Centro comercial",
+  "nombre": "Mall Plaza Oeste Interior",
+  "lat": -33.520437,
+  "lon": -70.71614
+ },
+ {
+  "tipo": "publico",
+  "categoria": "Lugar público concurrido",
+  "nombre": "Terminal San Borja",
+  "lat": -33.454065,
+  "lon": -70.680527
+ },
+ {
+  "tipo": "hospital",
+  "categoria": "Hospital / centro de salud",
+  "nombre": "CESFAM Dr. Carlos Godoy",
+  "lat": -33.527545,
+  "lon": -70.796849
+ },
+ {
+  "tipo": "hospital",
+  "categoria": "Hospital / centro de salud",
+  "nombre": "CECOSF Los Bosquinos",
+  "lat": -33.55031,
+  "lon": -70.794136
+ },
+ {
+  "tipo": "hospital",
+  "categoria": "Hospital / centro de salud",
+  "nombre": "CESFAM Bicentenario Renca",
+  "lat": -33.398228,
+  "lon": -70.749908
+ },
+ {
+  "tipo": "hospital",
+  "categoria": "Hospital / centro de salud",
+  "nombre": "CESFAM Dr. Hernán Urzúa M.",
+  "lat": -33.411833,
+  "lon": -70.728838
+ },
+ {
+  "tipo": "hospital",
+  "categoria": "Hospital / centro de salud",
+  "nombre": "CESFAM Renca",
+  "lat": -33.403133,
+  "lon": -70.710154
+ },
+ {
+  "tipo": "publico",
+  "categoria": "Lugar público concurrido",
+  "nombre": "Municipalidad de Independencia",
+  "lat": -33.422028,
+  "lon": -70.655787
+ },
+ {
+  "tipo": "hospital",
+  "categoria": "Hospital / centro de salud",
+  "nombre": "Clínica Dávila",
+  "lat": -33.427406,
+  "lon": -70.646286
+ },
+ {
+  "tipo": "hospital",
+  "categoria": "Hospital / centro de salud",
+  "nombre": "Hospital Dipreca",
+  "lat": -33.417081,
+  "lon": -70.529433
+ },
+ {
+  "tipo": "hospital",
+  "categoria": "Hospital / centro de salud",
+  "nombre": "CESFAM Aníbal Ariztía",
+  "lat": -33.41671,
+  "lon": -70.53243
+ },
+ {
+  "tipo": "mall",
+  "categoria": "Centro comercial",
+  "nombre": "Costanera Center",
+  "lat": -33.416789,
+  "lon": -70.605847
+ },
+ {
+  "tipo": "mall",
+  "categoria": "Centro comercial",
+  "nombre": "Mall Parque Arauco",
+  "lat": -33.401271,
+  "lon": -70.578567
+ },
+ {
+  "tipo": "hospital",
+  "categoria": "Hospital / centro de salud",
+  "nombre": "Clínica Alemana",
+  "lat": -33.393897,
+  "lon": -70.57204
+ },
+ {
+  "tipo": "mall",
+  "categoria": "Centro comercial",
+  "nombre": "Mall Los Trapenses",
+  "lat": -33.356166,
+  "lon": -70.539141
+ },
+ {
+  "tipo": "mall",
+  "categoria": "Centro comercial",
+  "nombre": "Mall Alto Las Condes",
+  "lat": -33.389148,
+  "lon": -70.547546
+ },
+ {
+  "tipo": "hospital",
+  "categoria": "Hospital / centro de salud",
+  "nombre": "Clínica Cordillera",
+  "lat": -33.425086,
+  "lon": -70.550003
+ },
+ {
+  "tipo": "hospital",
+  "categoria": "Hospital / centro de salud",
+  "nombre": "CESFAM Dr. Adalberto Steeger",
+  "lat": -33.418418,
+  "lon": -70.740149
+ },
+ {
+  "tipo": "hospital",
+  "categoria": "Hospital / centro de salud",
+  "nombre": "Clínica Santa María",
+  "lat": -33.433433,
+  "lon": -70.628588
+ },
+ {
+  "tipo": "hospital",
+  "categoria": "Hospital / centro de salud",
+  "nombre": "Clínica Indisa",
+  "lat": -33.421428,
+  "lon": -70.616868
+ },
+ {
+  "tipo": "publico",
+  "categoria": "Lugar público concurrido",
+  "nombre": "Universidad del Pacífico",
+  "lat": -33.378225,
+  "lon": -70.528184
+ },
+ {
+  "tipo": "hospital",
+  "categoria": "Hospital / centro de salud",
+  "nombre": "CESFAM Cardenal R.Silva Henríquez",
+  "lat": -33.429007,
+  "lon": -70.770498
+ },
+ {
+  "tipo": "hospital",
+  "categoria": "Hospital / centro de salud",
+  "nombre": "CESFAM Andes",
+  "lat": -33.433917,
+  "lon": -70.691965
+ },
+ {
+  "tipo": "hospital",
+  "categoria": "Hospital / centro de salud",
+  "nombre": "CECOSF Lo Errázuriz",
+  "lat": -33.472924,
+  "lon": -70.724512
+ },
+ {
+  "tipo": "hospital",
+  "categoria": "Hospital / centro de salud",
+  "nombre": "CESFAM Salvador Bustos",
+  "lat": -33.465505,
+  "lon": -70.588972
+ },
+ {
+  "tipo": "publico",
+  "categoria": "Lugar público concurrido",
+  "nombre": "Municipalidad de Peñalolén",
+  "lat": -33.476304,
+  "lon": -70.541348
+ },
+ {
+  "tipo": "hospital",
+  "categoria": "Hospital / centro de salud",
+  "nombre": "Hospital San Juan de Dios",
+  "lat": -33.442695,
+  "lon": -70.679805
+ },
+ {
+  "tipo": "hospital",
+  "categoria": "Hospital / centro de salud",
+  "nombre": "Hospital Del Salvador",
+  "lat": -33.436337,
+  "lon": -70.625732
+ },
+ {
+  "tipo": "hospital",
+  "categoria": "Hospital / centro de salud",
+  "nombre": "CESFAM La Faena",
+  "lat": -33.468509,
+  "lon": -70.55561
+ },
+ {
+  "tipo": "hospital",
+  "categoria": "Hospital / centro de salud",
+  "nombre": "CESFAM Cardenal R.Silva Henríquez",
+  "lat": -33.469709,
+  "lon": -70.532383
+ },
+ {
+  "tipo": "publico",
+  "categoria": "Lugar público concurrido",
+  "nombre": "Plaza de Pudahuel",
+  "lat": -33.436396,
+  "lon": -70.751977
+ },
+ {
+  "tipo": "publico",
+  "categoria": "Lugar público concurrido",
+  "nombre": "Municipalidad de Pudahuel",
+  "lat": -33.444772,
+  "lon": -70.744919
+ },
+ {
+  "tipo": "hospital",
+  "categoria": "Hospital / centro de salud",
+  "nombre": "CESFAM N°5",
+  "lat": -33.451215,
+  "lon": -70.673981
+ },
+ {
+  "tipo": "hospital",
+  "categoria": "Hospital / centro de salud",
+  "nombre": "CESFAM Pudahuel Poniente",
+  "lat": -33.448409,
+  "lon": -70.761095
+ },
+ {
+  "tipo": "hospital",
+  "categoria": "Hospital / centro de salud",
+  "nombre": "Posta Central",
+  "lat": -33.444378,
+  "lon": -70.636685
+ },
+ {
+  "tipo": "hospital",
+  "categoria": "Hospital / centro de salud",
+  "nombre": "Hospital Univers. Católica",
+  "lat": -33.441987,
+  "lon": -70.638615
+ },
+ {
+  "tipo": "hospital",
+  "categoria": "Hospital / centro de salud",
+  "nombre": "CESFAM Lo Amor",
+  "lat": -33.417676,
+  "lon": -70.716946
+ },
+ {
+  "tipo": "publico",
+  "categoria": "Lugar público concurrido",
+  "nombre": "Municipalidad de Quinta Normal",
+  "lat": -33.423083,
+  "lon": -70.693279
+ },
+ {
+  "tipo": "hospital",
+  "categoria": "Hospital / centro de salud",
+  "nombre": "CESFAM Pablo Neruda",
+  "lat": -33.450359,
+  "lon": -70.730766
+ },
+ {
+  "tipo": "hospital",
+  "categoria": "Hospital / centro de salud",
+  "nombre": "CESFAM Sta. Anita (Lo Prado)",
+  "lat": -33.439698,
+  "lon": -70.708979
+ },
+ {
+  "tipo": "publico",
+  "categoria": "Lugar público concurrido",
+  "nombre": "Municipalidad de Lo Prado",
+  "lat": -33.443689,
+  "lon": -70.719223
+ },
+ {
+  "tipo": "hospital",
+  "categoria": "Hospital / centro de salud",
+  "nombre": "CESFAM Dr. Carlos Avendaño",
+  "lat": -33.436466,
+  "lon": -70.741104
+ },
+ {
+  "tipo": "hospital",
+  "categoria": "Hospital / centro de salud",
+  "nombre": "Hospital Metropolitano",
+  "lat": -33.419123,
+  "lon": -70.60582
+ },
+ {
+  "tipo": "publico",
+  "categoria": "Lugar público concurrido",
+  "nombre": "Terminal Las Acacias",
+  "lat": -33.521088,
+  "lon": -70.800977
+ },
+ {
+  "tipo": "policia",
+  "categoria": "Comisaría / Carabineros",
+  "nombre": "26ª Comisaría",
+  "lat": -33.447687,
+  "lon": -70.739546
+ },
+ {
+  "tipo": "hospital",
+  "categoria": "Hospital / centro de salud",
+  "nombre": "Consultorio Pudahuel -Poniente",
+  "lat": -33.442208,
+  "lon": -70.764514
+ },
+ {
+  "tipo": "publico",
+  "categoria": "Lugar público concurrido",
+  "nombre": "Municipalidad de Las Condes",
+  "lat": -33.416415,
+  "lon": -70.594288
+ },
+ {
+  "tipo": "hospital",
+  "categoria": "Hospital / centro de salud",
+  "nombre": "Hospital FACH",
+  "lat": -33.395657,
+  "lon": -70.548804
+ },
+ {
+  "tipo": "publico",
+  "categoria": "Lugar público concurrido",
+  "nombre": "INACAP Apoquindo",
+  "lat": -33.408529,
+  "lon": -70.552194
+ },
+ {
+  "tipo": "hospital",
+  "categoria": "Hospital / centro de salud",
+  "nombre": "Hospital Militar",
+  "lat": -33.451586,
+  "lon": -70.540486
+ },
+ {
+  "tipo": "mall",
+  "categoria": "Centro comercial",
+  "nombre": "Portal La Dehesa",
+  "lat": -33.358882,
+  "lon": -70.516991
+ },
+ {
+  "tipo": "hospital",
+  "categoria": "Hospital / centro de salud",
+  "nombre": "CESFAM La Florida",
+  "lat": -33.514249,
+  "lon": -70.585473
+ },
+ {
+  "tipo": "mall",
+  "categoria": "Centro comercial",
+  "nombre": "Mall Plaza Tobalaba",
+  "lat": -33.569152,
+  "lon": -70.554883
+ },
+ {
+  "tipo": "hospital",
+  "categoria": "Hospital / centro de salud",
+  "nombre": "Hospital El Peral",
+  "lat": -33.579149,
+  "lon": -70.552003
+ },
+ {
+  "tipo": "hospital",
+  "categoria": "Hospital / centro de salud",
+  "nombre": "Hospital Padre Hurtado",
+  "lat": -33.553427,
+  "lon": -70.632113
+ },
+ {
+  "tipo": "hospital",
+  "categoria": "Hospital / centro de salud",
+  "nombre": "CESFAM Santo Tomás",
+  "lat": -33.557036,
+  "lon": -70.616019
+ },
+ {
+  "tipo": "hospital",
+  "categoria": "Hospital / centro de salud",
+  "nombre": "CESFAM Santiago Nueva Extremadura",
+  "lat": -33.588993,
+  "lon": -70.618945
+ },
+ {
+  "tipo": "publico",
+  "categoria": "Lugar público concurrido",
+  "nombre": "Municipalidad de Recoleta",
+  "lat": -33.400918,
+  "lon": -70.642512
+ },
+ {
+  "tipo": "hospital",
+  "categoria": "Hospital / centro de salud",
+  "nombre": "CESFAM Manuel Bustos",
+  "lat": -33.354868,
+  "lon": -70.720659
+ },
+ {
+  "tipo": "hospital",
+  "categoria": "Hospital / centro de salud",
+  "nombre": "Hospital San José",
+  "lat": -33.417637,
+  "lon": -70.652763
+ },
+ {
+  "tipo": "hospital",
+  "categoria": "Hospital / centro de salud",
+  "nombre": "Hospital de Niños Roberto del Río",
+  "lat": -33.414921,
+  "lon": -70.653737
+ },
+ {
+  "tipo": "mall",
+  "categoria": "Centro comercial",
+  "nombre": "Mall Plaza Norte",
+  "lat": -33.36819,
+  "lon": -70.67937
+ },
+ {
+  "tipo": "hospital",
+  "categoria": "Hospital / centro de salud",
+  "nombre": "CESFAM Lo Hermida",
+  "lat": -33.476603,
+  "lon": -70.563114
+ },
+ {
+  "tipo": "mall",
+  "categoria": "Centro comercial",
+  "nombre": "Paseo Los Dominicos",
+  "lat": -33.40116,
+  "lon": -70.515516
+ },
+ {
+  "tipo": "publico",
+  "categoria": "Lugar público concurrido",
+  "nombre": "Municipalidad de Huechuraba",
+  "lat": -33.377879,
+  "lon": -70.638216
+ },
+ {
+  "tipo": "publico",
+  "categoria": "Lugar público concurrido",
+  "nombre": "Municipalidad de Providencia",
+  "lat": -33.43124,
+  "lon": -70.609635
+ },
+ {
+  "tipo": "mall",
+  "categoria": "Centro comercial",
+  "nombre": "Mall Paseo Quilín",
+  "lat": -33.488421,
+  "lon": -70.578141
+ },
+ {
+  "tipo": "publico",
+  "categoria": "Lugar público concurrido",
+  "nombre": "Municipalidad de Macul",
+  "lat": -33.482136,
+  "lon": -70.598859
+ },
+ {
+  "tipo": "hospital",
+  "categoria": "Hospital / centro de salud",
+  "nombre": "CESFAM Dr. Lucas Sierra",
+  "lat": -33.388996,
+  "lon": -70.670792
+ },
+ {
+  "tipo": "publico",
+  "categoria": "Lugar público concurrido",
+  "nombre": "Terminal Los Libertadores",
+  "lat": -33.361709,
+  "lon": -70.681876
+ },
+ {
+  "tipo": "hospital",
+  "categoria": "Hospital / centro de salud",
+  "nombre": "CESFAM El Barrero",
+  "lat": -33.375871,
+  "lon": -70.625567
+ },
+ {
+  "tipo": "hospital",
+  "categoria": "Hospital / centro de salud",
+  "nombre": "CESFAM La Pincoya",
+  "lat": -33.37349,
+  "lon": -70.636562
+ },
+ {
+  "tipo": "publico",
+  "categoria": "Lugar público concurrido",
+  "nombre": "Municipalidad de Puente Alto",
+  "lat": -33.5939,
+  "lon": -70.57917
+ },
+ {
+  "tipo": "hospital",
+  "categoria": "Hospital / centro de salud",
+  "nombre": "Hospital de Niños",
+  "lat": -33.573928,
+  "lon": -70.582311
+ },
+ {
+  "tipo": "publico",
+  "categoria": "Lugar público concurrido",
+  "nombre": "INACAP Puente Alto",
+  "lat": -33.586034,
+  "lon": -70.582642
+ },
+ {
+  "tipo": "policia",
+  "categoria": "Comisaría / Carabineros",
+  "nombre": "Retén Las Vizcachas",
+  "lat": -33.598833,
+  "lon": -70.528979
+ },
+ {
+  "tipo": "hospital",
+  "categoria": "Hospital / centro de salud",
+  "nombre": "CESFAM Madre Teresa de Calcuta",
+  "lat": -33.614102,
+  "lon": -70.552551
+ },
+ {
+  "tipo": "hospital",
+  "categoria": "Hospital / centro de salud",
+  "nombre": "CESFAM San Rafael",
+  "lat": -33.579029,
+  "lon": -70.638736
+ },
+ {
+  "tipo": "hospital",
+  "categoria": "Hospital / centro de salud",
+  "nombre": "CESFAM Sn. Alberto Hurtado",
+  "lat": -33.596285,
+  "lon": -70.556431
+ },
+ {
+  "tipo": "mall",
+  "categoria": "Centro comercial",
+  "nombre": "Paseo Quilín",
+  "lat": -33.485475,
+  "lon": -70.579472
+ },
+ {
+  "tipo": "hospital",
+  "categoria": "Hospital / centro de salud",
+  "nombre": "CESFAM Cardenal R.Silva Henríquez",
+  "lat": -33.628126,
+  "lon": -70.615757
+ },
+ {
+  "tipo": "hospital",
+  "categoria": "Hospital / centro de salud",
+  "nombre": "CESFAM Karol Wojtyla",
+  "lat": -33.625522,
+  "lon": -70.626179
+ },
+ {
+  "tipo": "hospital",
+  "categoria": "Hospital / centro de salud",
+  "nombre": "Consultorio Laura Vicuña",
+  "lat": -33.590128,
+  "lon": -70.596295
+ },
+ {
+  "tipo": "hospital",
+  "categoria": "Hospital / centro de salud",
+  "nombre": "CESFAM San Gerónimo",
+  "lat": -33.623813,
+  "lon": -70.587941
+ },
+ {
+  "tipo": "hospital",
+  "categoria": "Hospital / centro de salud",
+  "nombre": "CESFAM Padre Manuel Villaseca",
+  "lat": -33.584152,
+  "lon": -70.555716
+ },
+ {
+  "tipo": "hospital",
+  "categoria": "Hospital / centro de salud",
+  "nombre": "CESFAM Bernardo Leighton",
+  "lat": -33.584533,
+  "lon": -70.603969
+ },
+ {
+  "tipo": "hospital",
+  "categoria": "Hospital / centro de salud",
+  "nombre": "CESFAM Dr. Víctor Castro W.",
+  "lat": -33.352592,
+  "lon": -70.678381
+ },
+ {
+  "tipo": "hospital",
+  "categoria": "Hospital / centro de salud",
+  "nombre": "CESFAM El Aguilucho",
+  "lat": -33.442855,
+  "lon": -70.596386
+ },
+ {
+  "tipo": "publico",
+  "categoria": "Lugar público concurrido",
+  "nombre": "Campus Oriente UC",
+  "lat": -33.446824,
+  "lon": -70.594713
+ },
+ {
+  "tipo": "hospital",
+  "categoria": "Hospital / centro de salud",
+  "nombre": "Hospital de Carabineros",
+  "lat": -33.451039,
+  "lon": -70.610069
+ },
+ {
+  "tipo": "hospital",
+  "categoria": "Hospital / centro de salud",
+  "nombre": "Hospital Calvo Mackenna",
+  "lat": -33.430045,
+  "lon": -70.616671
+ },
+ {
+  "tipo": "super",
+  "categoria": "Supermercado",
+  "nombre": "Lider",
+  "lat": -33.460577,
+  "lon": -70.546593
+ },
+ {
+  "tipo": "hospital",
+  "categoria": "Hospital / centro de salud",
+  "nombre": "CESFAM Juan Pablo II",
+  "lat": -33.585228,
+  "lon": -70.691093
+ },
+ {
+  "tipo": "hospital",
+  "categoria": "Hospital / centro de salud",
+  "nombre": "CESFAM Confraternidad",
+  "lat": -33.589267,
+  "lon": -70.682597
+ },
+ {
+  "tipo": "hospital",
+  "categoria": "Hospital / centro de salud",
+  "nombre": "CESFAM Raul Brañes F.",
+  "lat": -33.598474,
+  "lon": -70.680996
+ },
+ {
+  "tipo": "hospital",
+  "categoria": "Hospital / centro de salud",
+  "nombre": "CESFAM Canciller Orlando Letelier",
+  "lat": -33.578042,
+  "lon": -70.678638
+ },
+ {
+  "tipo": "hospital",
+  "categoria": "Hospital / centro de salud",
+  "nombre": "CESFAM J.Pablo II (Padre Hurtado)",
+  "lat": -33.570305,
+  "lon": -70.805385
+ },
+ {
+  "tipo": "hospital",
+  "categoria": "Hospital / centro de salud",
+  "nombre": "CECOSF Rapa Nui",
+  "lat": -33.562676,
+  "lon": -70.70645
+ },
+ {
+  "tipo": "mall",
+  "categoria": "Centro comercial",
+  "nombre": "Mall Plaza Sur",
+  "lat": -33.632129,
+  "lon": -70.71296
+ },
+ {
+  "tipo": "hospital",
+  "categoria": "Hospital / centro de salud",
+  "nombre": "CESFAM Trinidad",
+  "lat": -33.546686,
+  "lon": -70.608176
+ },
+ {
+  "tipo": "hospital",
+  "categoria": "Hospital / centro de salud",
+  "nombre": "CESFAM Padre Esteban Gumucio",
+  "lat": -33.519635,
+  "lon": -70.623549
+ },
+ {
+  "tipo": "hospital",
+  "categoria": "Hospital / centro de salud",
+  "nombre": "CESFAM Malaquías Concha",
+  "lat": -33.527315,
+  "lon": -70.622133
+ },
+ {
+  "tipo": "hospital",
+  "categoria": "Hospital / centro de salud",
+  "nombre": "Hospital Trudeau",
+  "lat": -33.484697,
+  "lon": -70.64133
+ },
+ {
+  "tipo": "hospital",
+  "categoria": "Hospital / centro de salud",
+  "nombre": "CESFAM San Joaquín",
+  "lat": -33.486476,
+  "lon": -70.6226
+ },
+ {
+  "tipo": "hospital",
+  "categoria": "Hospital / centro de salud",
+  "nombre": "CESFAM Villa Sur",
+  "lat": -33.50144,
+  "lon": -70.680259
+ },
+ {
+  "tipo": "hospital",
+  "categoria": "Hospital / centro de salud",
+  "nombre": "CECOSF Yalta",
+  "lat": -33.478569,
+  "lon": -70.636837
+ },
+ {
+  "tipo": "publico",
+  "categoria": "Lugar público concurrido",
+  "nombre": "Municipalidad de P.Aguirre Cerda",
+  "lat": -33.488953,
+  "lon": -70.664476
+ },
+ {
+  "tipo": "hospital",
+  "categoria": "Hospital / centro de salud",
+  "nombre": "CESFAM Arturo Baeza Goñi",
+  "lat": -33.492164,
+  "lon": -70.633762
+ },
+ {
+  "tipo": "hospital",
+  "categoria": "Hospital / centro de salud",
+  "nombre": "CECOSF Sierra Bella",
+  "lat": -33.485561,
+  "lon": -70.63263
+ },
+ {
+  "tipo": "hospital",
+  "categoria": "Hospital / centro de salud",
+  "nombre": "CESFAM Santa Amalia",
+  "lat": -33.543319,
+  "lon": -70.59203
+ },
+ {
+  "tipo": "hospital",
+  "categoria": "Hospital / centro de salud",
+  "nombre": "CESFAM La Bandera",
+  "lat": -33.545634,
+  "lon": -70.645355
+ },
+ {
+  "tipo": "hospital",
+  "categoria": "Hospital / centro de salud",
+  "nombre": "CESFAM Dr. José Manuel Balmaceda",
+  "lat": -33.6372,
+  "lon": -70.577051
+ },
+ {
+  "tipo": "policia",
+  "categoria": "Comisaría / Carabineros",
+  "nombre": "65ª Comisaría de Pirque",
+  "lat": -33.635022,
+  "lon": -70.573152
+ },
+ {
+  "tipo": "hospital",
+  "categoria": "Hospital / centro de salud",
+  "nombre": "CESFAM Los Castaños",
+  "lat": -33.512133,
+  "lon": -70.578586
+ },
+ {
+  "tipo": "super",
+  "categoria": "Supermercado",
+  "nombre": "Lider (M) Macul",
+  "lat": -33.511899,
+  "lon": -70.590907
+ },
+ {
+  "tipo": "metro",
+  "categoria": "Estación de Metro",
+  "nombre": "Metro Camino Agrícola",
+  "lat": -33.491921,
+  "lon": -70.617491
+ },
+ {
+  "tipo": "metro",
+  "categoria": "Estación de Metro",
+  "nombre": "Metro San Alberto Hurtado",
+  "lat": -33.454211,
+  "lon": -70.692277
+ },
+ {
+  "tipo": "metro",
+  "categoria": "Estación de Metro",
+  "nombre": "Metro Alcántara",
+  "lat": -33.415419,
+  "lon": -70.589663
+ },
+ {
+  "tipo": "metro",
+  "categoria": "Estación de Metro",
+  "nombre": "Metro Santa Ana",
+  "lat": -33.4383,
+  "lon": -70.659737
+ },
+ {
+  "tipo": "metro",
+  "categoria": "Estación de Metro",
+  "nombre": "Metro Vespucio Norte",
+  "lat": -33.380833,
+  "lon": -70.646629
+ },
+ {
+  "tipo": "metro",
+  "categoria": "Estación de Metro",
+  "nombre": "Metro Baquedano",
+  "lat": -33.437465,
+  "lon": -70.634157
+ },
+ {
+  "tipo": "metro",
+  "categoria": "Estación de Metro",
+  "nombre": "Metro Bellas Artes",
+  "lat": -33.436437,
+  "lon": -70.644239
+ },
+ {
+  "tipo": "metro",
+  "categoria": "Estación de Metro",
+  "nombre": "Metro Francisco Bilbao",
+  "lat": -33.43166,
+  "lon": -70.584925
+ },
+ {
+  "tipo": "metro",
+  "categoria": "Estación de Metro",
+  "nombre": "Metro Bío Bío",
+  "lat": -33.47666,
+  "lon": -70.64236
+ },
+ {
+  "tipo": "metro",
+  "categoria": "Estación de Metro",
+  "nombre": "Metro Blanqueado",
+  "lat": -33.441131,
+  "lon": -70.706884
+ },
+ {
+  "tipo": "metro",
+  "categoria": "Estación de Metro",
+  "nombre": "Metro Barrancas",
+  "lat": -33.4527,
+  "lon": -70.739578
+ },
+ {
+  "tipo": "metro",
+  "categoria": "Estación de Metro",
+  "nombre": "Metro Puente Cal y Canto",
+  "lat": -33.432945,
+  "lon": -70.653219
+ },
+ {
+  "tipo": "metro",
+  "categoria": "Estación de Metro",
+  "nombre": "Metro Cardenal Caro",
+  "lat": -33.373314,
+  "lon": -70.686283
+ },
+ {
+  "tipo": "metro",
+  "categoria": "Estación de Metro",
+  "nombre": "Metro Cerro Blanco",
+  "lat": -33.422701,
+  "lon": -70.645234
+ },
+ {
+  "tipo": "metro",
+  "categoria": "Estación de Metro",
+  "nombre": "Metro Conchalí",
+  "lat": -33.397531,
+  "lon": -70.669564
+ },
+ {
+  "tipo": "metro",
+  "categoria": "Estación de Metro",
+  "nombre": "Metro Cementerios",
+  "lat": -33.413869,
+  "lon": -70.643831
+ },
+ {
+  "tipo": "metro",
+  "categoria": "Estación de Metro",
+  "nombre": "Metro Cerrillos",
+  "lat": -33.483438,
+  "lon": -70.694744
+ },
+ {
+  "tipo": "metro",
+  "categoria": "Estación de Metro",
+  "nombre": "Metro Universidad de Chile",
+  "lat": -33.443674,
+  "lon": -70.650357
+ },
+ {
+  "tipo": "metro",
+  "categoria": "Estación de Metro",
+  "nombre": "Metro Copa Lo Martinez",
+  "lat": -33.57088,
+  "lon": -70.67366
+ },
+ {
+  "tipo": "metro",
+  "categoria": "Estación de Metro",
+  "nombre": "Metro Ciudad del Niño",
+  "lat": -33.509613,
+  "lon": -70.656663
+ },
+ {
+  "tipo": "metro",
+  "categoria": "Estación de Metro",
+  "nombre": "Metro Cristóbal Colón",
+  "lat": -33.426239,
+  "lon": -70.591357
+ },
+ {
+  "tipo": "metro",
+  "categoria": "Estación de Metro",
+  "nombre": "Metro Carlos Valdovinos",
+  "lat": -33.486573,
+  "lon": -70.619021
+ },
+ {
+  "tipo": "metro",
+  "categoria": "Estación de Metro",
+  "nombre": "Metro Departamental",
+  "lat": -33.502504,
+  "lon": -70.654644
+ },
+ {
+  "tipo": "metro",
+  "categoria": "Estación de Metro",
+  "nombre": "Metro Dorsal",
+  "lat": -33.396749,
+  "lon": -70.642995
+ },
+ {
+  "tipo": "metro",
+  "categoria": "Estación de Metro",
+  "nombre": "Metro Del Sol",
+  "lat": -33.489988,
+  "lon": -70.753539
+ },
+ {
+  "tipo": "metro",
+  "categoria": "Estación de Metro",
+  "nombre": "Metro El Bosque",
+  "lat": -33.54642,
+  "lon": -70.66699
+ },
+ {
+  "tipo": "metro",
+  "categoria": "Estación de Metro",
+  "nombre": "Metro Ecuador",
+  "lat": -33.455852,
+  "lon": -70.699709
+ },
+ {
+  "tipo": "metro",
+  "categoria": "Estación de Metro",
+  "nombre": "Metro Elisa Correa",
+  "lat": -33.568978,
+  "lon": -70.583827
+ },
+ {
+  "tipo": "metro",
+  "categoria": "Estación de Metro",
+  "nombre": "Metro Einstein",
+  "lat": -33.405617,
+  "lon": -70.64351
+ },
+ {
+  "tipo": "metro",
+  "categoria": "Estación de Metro",
+  "nombre": "Metro Estación Central",
+  "lat": -33.45104,
+  "lon": -70.679076
+ },
+ {
+  "tipo": "metro",
+  "categoria": "Estación de Metro",
+  "nombre": "Metro Escuela Militar",
+  "lat": -33.413796,
+  "lon": -70.583413
+ },
+ {
+  "tipo": "metro",
+  "categoria": "Estación de Metro",
+  "nombre": "Metro El Parrón",
+  "lat": -33.52643,
+  "lon": -70.661392
+ },
+ {
+  "tipo": "metro",
+  "categoria": "Estación de Metro",
+  "nombre": "Metro Estadio Nacional",
+  "lat": -33.462634,
+  "lon": -70.606929
+ },
+ {
+  "tipo": "metro",
+  "categoria": "Estación de Metro",
+  "nombre": "Metro Chile España",
+  "lat": -33.455206,
+  "lon": -70.597489
+ },
+ {
+  "tipo": "metro",
+  "categoria": "Estación de Metro",
+  "nombre": "Metro Fernando Castillo Velasco",
+  "lat": -33.452321,
+  "lon": -70.558179
+ },
+ {
+  "tipo": "metro",
+  "categoria": "Estación de Metro",
+  "nombre": "Metro Ferrocarril",
+  "lat": -33.36515,
+  "lon": -70.70593
+ },
+ {
+  "tipo": "metro",
+  "categoria": "Estación de Metro",
+  "nombre": "Metro Franklin",
+  "lat": -33.476364,
+  "lon": -70.649112
+ },
+ {
+  "tipo": "metro",
+  "categoria": "Estación de Metro",
+  "nombre": "Metro Gruta de Lourdes",
+  "lat": -33.438271,
+  "lon": -70.690941
+ },
+ {
+  "tipo": "metro",
+  "categoria": "Estación de Metro",
+  "nombre": "Metro El Golf",
+  "lat": -33.416681,
+  "lon": -70.596186
+ },
+ {
+  "tipo": "metro",
+  "categoria": "Estación de Metro",
+  "nombre": "Metro Hernando de Magallanes",
+  "lat": -33.408201,
+  "lon": -70.556103
+ },
+ {
+  "tipo": "metro",
+  "categoria": "Estación de Metro",
+  "nombre": "Metro Hospitales",
+  "lat": -33.417829,
+  "lon": -70.656054
+ },
+ {
+  "tipo": "metro",
+  "categoria": "Estación de Metro",
+  "nombre": "Metro Hospital Sótero del Río",
+  "lat": -33.576746,
+  "lon": -70.582317
+ },
+ {
+  "tipo": "metro",
+  "categoria": "Estación de Metro",
+  "nombre": "Metro Irarrázaval",
+  "lat": -33.453315,
+  "lon": -70.628622
+ },
+ {
+  "tipo": "metro",
+  "categoria": "Estación de Metro",
+  "nombre": "Metro Inés de Suárez",
+  "lat": -33.43841,
+  "lon": -70.606742
+ },
+ {
+  "tipo": "metro",
+  "categoria": "Estación de Metro",
+  "nombre": "Metro Unión Latinoamericana",
+  "lat": -33.449305,
+  "lon": -70.673397
+ },
+ {
+  "tipo": "metro",
+  "categoria": "Estación de Metro",
+  "nombre": "Metro La Cisterna",
+  "lat": -33.537626,
+  "lon": -70.664509
+ },
+ {
+  "tipo": "metro",
+  "categoria": "Estación de Metro",
+  "nombre": "Metro Lo Cruzat",
+  "lat": -33.366443,
+  "lon": -70.720481
+ },
+ {
+  "tipo": "metro",
+  "categoria": "Estación de Metro",
+  "nombre": "Metro Los Dominicos",
+  "lat": -33.407966,
+  "lon": -70.545116
+ },
+ {
+  "tipo": "metro",
+  "categoria": "Estación de Metro",
+  "nombre": "Metro Los Leones",
+  "lat": -33.42135,
+  "lon": -70.608332
+ },
+ {
+  "tipo": "metro",
+  "categoria": "Estación de Metro",
+  "nombre": "Metro Bellavista de La Florida",
+  "lat": -33.519674,
+  "lon": -70.599869
+ },
+ {
+  "tipo": "metro",
+  "categoria": "Estación de Metro",
+  "nombre": "Metro La Granja",
+  "lat": -33.541151,
+  "lon": -70.616041
+ },
+ {
+  "tipo": "metro",
+  "categoria": "Estación de Metro",
+  "nombre": "Metro Los Héroes",
+  "lat": -33.446414,
+  "lon": -70.661486
+ },
+ {
+  "tipo": "metro",
+  "categoria": "Estación de Metro",
+  "nombre": "Metro Los Libertadores",
+  "lat": -33.365575,
+  "lon": -70.690667
+ },
+ {
+  "tipo": "metro",
+  "categoria": "Estación de Metro",
+  "nombre": "Metro El Llano",
+  "lat": -33.482592,
+  "lon": -70.649491
+ },
+ {
+  "tipo": "metro",
+  "categoria": "Estación de Metro",
+  "nombre": "Metro La Moneda",
+  "lat": -33.444869,
+  "lon": -70.655185
+ },
+ {
+  "tipo": "metro",
+  "categoria": "Estación de Metro",
+  "nombre": "Metro Las Mercedes",
+  "lat": -33.601407,
+  "lon": -70.577489
+ },
+ {
+  "tipo": "metro",
+  "categoria": "Estación de Metro",
+  "nombre": "Metro Lo Ovalle",
+  "lat": -33.51729,
+  "lon": -70.658853
+ },
+ {
+  "tipo": "metro",
+  "categoria": "Estación de Metro",
+  "nombre": "Metro Los Orientales",
+  "lat": -33.462428,
+  "lon": -70.573869
+ },
+ {
+  "tipo": "metro",
+  "categoria": "Estación de Metro",
+  "nombre": "Metro Las Parcelas",
+  "lat": -33.475021,
+  "lon": -70.740398
+ },
+ {
+  "tipo": "metro",
+  "categoria": "Estación de Metro",
+  "nombre": "Metro Los Presidentes",
+  "lat": -33.479612,
+  "lon": -70.578619
+ },
+ {
+  "tipo": "metro",
+  "categoria": "Estación de Metro",
+  "nombre": "Metro Los Quillayes",
+  "lat": -33.560877,
+  "lon": -70.585288
+ },
+ {
+  "tipo": "metro",
+  "categoria": "Estación de Metro",
+  "nombre": "Metro Las Rejas",
+  "lat": -33.457514,
+  "lon": -70.706599
+ },
+ {
+  "tipo": "metro",
+  "categoria": "Estación de Metro",
+  "nombre": "Metro Laguna Sur",
+  "lat": -33.462384,
+  "lon": -70.738134
+ },
+ {
+  "tipo": "metro",
+  "categoria": "Estación de Metro",
+  "nombre": "Metro Las Torres",
+  "lat": -33.499429,
+  "lon": -70.586675
+ },
+ {
+  "tipo": "metro",
+  "categoria": "Estación de Metro",
+  "nombre": "Metro Lo Vial",
+  "lat": -33.496842,
+  "lon": -70.652997
+ },
+ {
+  "tipo": "metro",
+  "categoria": "Estación de Metro",
+  "nombre": "Metro Lo Valledor",
+  "lat": -33.477694,
+  "lon": -70.680962
+ },
+ {
+  "tipo": "metro",
+  "categoria": "Estación de Metro",
+  "nombre": "Metro Mirador",
+  "lat": -33.513087,
+  "lon": -70.606208
+ },
+ {
+  "tipo": "metro",
+  "categoria": "Estación de Metro",
+  "nombre": "Metro Macul",
+  "lat": -33.509381,
+  "lon": -70.590071
+ },
+ {
+  "tipo": "metro",
+  "categoria": "Estación de Metro",
+  "nombre": "Metro Matta",
+  "lat": -33.457966,
+  "lon": -70.642977
+ },
+ {
+  "tipo": "metro",
+  "categoria": "Estación de Metro",
+  "nombre": "Metro Monseñor Eyzaguirre",
+  "lat": -33.453375,
+  "lon": -70.613785
+ },
+ {
+  "tipo": "metro",
+  "categoria": "Estación de Metro",
+  "nombre": "Metro Manuel Montt",
+  "lat": -33.428654,
+  "lon": -70.619631
+ },
+ {
+  "tipo": "metro",
+  "categoria": "Estación de Metro",
+  "nombre": "Metro Manquehue",
+  "lat": -33.409227,
+  "lon": -70.568908
+ },
+ {
+  "tipo": "metro",
+  "categoria": "Estación de Metro",
+  "nombre": "Metro Monte Tabor",
+  "lat": -33.482091,
+  "lon": -70.745823
+ },
+ {
+  "tipo": "metro",
+  "categoria": "Estación de Metro",
+  "nombre": "Metro Neptuno",
+  "lat": -33.451466,
+  "lon": -70.722665
+ },
+ {
+  "tipo": "metro",
+  "categoria": "Estación de Metro",
+  "nombre": "Metro Ñuble",
+  "lat": -33.467438,
+  "lon": -70.625628
+ },
+ {
+  "tipo": "metro",
+  "categoria": "Estación de Metro",
+  "nombre": "Metro Ñuñoa",
+  "lat": -33.454426,
+  "lon": -70.605107
+ },
+ {
+  "tipo": "metro",
+  "categoria": "Estación de Metro",
+  "nombre": "Metro Observatorio",
+  "lat": -33.56039,
+  "lon": -70.6703
+ },
+ {
+  "tipo": "metro",
+  "categoria": "Estación de Metro",
+  "nombre": "Metro Presidente Pedro Aguirre Cerda",
+  "lat": -33.478477,
+  "lon": -70.664988
+ },
+ {
+  "tipo": "metro",
+  "categoria": "Estación de Metro",
+  "nombre": "Metro Parque Almagro",
+  "lat": -33.451431,
+  "lon": -70.650662
+ },
+ {
+  "tipo": "metro",
+  "categoria": "Estación de Metro",
+  "nombre": "Metro Parque Bustamante",
+  "lat": -33.442826,
+  "lon": -70.632085
+ },
+ {
+  "tipo": "metro",
+  "categoria": "Estación de Metro",
+  "nombre": "Metro Príncipe de Gales",
+  "lat": -33.438917,
+  "lon": -70.57301
+ },
+ {
+  "tipo": "metro",
+  "categoria": "Estación de Metro",
+  "nombre": "Metro Pedrero",
+  "lat": -33.508054,
+  "lon": -70.612344
+ },
+ {
+  "tipo": "metro",
+  "categoria": "Estación de Metro",
+  "nombre": "Metro Plaza Egaña",
+  "lat": -33.453245,
+  "lon": -70.570911
+ },
+ {
+  "tipo": "metro",
+  "categoria": "Estación de Metro",
+  "nombre": "Metro Hospital El Pino",
+  "lat": -33.582685,
+  "lon": -70.67676
+ },
+ {
+  "tipo": "metro",
+  "categoria": "Estación de Metro",
+  "nombre": "Metro Protectora de la Infancia",
+  "lat": -33.589281,
+  "lon": -70.579677
+ },
+ {
+  "tipo": "metro",
+  "categoria": "Estación de Metro",
+  "nombre": "Metro Pajaritos",
+  "lat": -33.457361,
+  "lon": -70.715639
+ },
+ {
+  "tipo": "metro",
+  "categoria": "Estación de Metro",
+  "nombre": "Metro Plaza de Maipú",
+  "lat": -33.509923,
+  "lon": -70.756893
+ },
+ {
+  "tipo": "metro",
+  "categoria": "Estación de Metro",
+  "nombre": "Metro Plaza de Puente Alto",
+  "lat": -33.60942,
+  "lon": -70.575633
+ },
+ {
+  "tipo": "metro",
+  "categoria": "Estación de Metro",
+  "nombre": "Metro Parque O'Higgins",
+  "lat": -33.460701,
+  "lon": -70.656876
+ },
+ {
+  "tipo": "metro",
+  "categoria": "Estación de Metro",
+  "nombre": "Metro Plaza Quilicura",
+  "lat": -33.365694,
+  "lon": -70.72939
+ },
+ {
+  "tipo": "metro",
+  "categoria": "Estación de Metro",
+  "nombre": "Metro Lo Prado",
+  "lat": -33.443204,
+  "lon": -70.716864
+ },
+ {
+  "tipo": "metro",
+  "categoria": "Estación de Metro",
+  "nombre": "Metro Patronato",
+  "lat": -33.429494,
+  "lon": -70.647186
+ },
+ {
+  "tipo": "metro",
+  "categoria": "Estación de Metro",
+  "nombre": "Metro Pudahuel",
+  "lat": -33.4447,
+  "lon": -70.740976
+ },
+ {
+  "tipo": "metro",
+  "categoria": "Estación de Metro",
+  "nombre": "Metro Pedro de Valdivia",
+  "lat": -33.425231,
+  "lon": -70.613821
+ },
+ {
+  "tipo": "metro",
+  "categoria": "Estación de Metro",
+  "nombre": "Metro Plaza de Armas",
+  "lat": -33.437454,
+  "lon": -70.650989
+ },
+ {
+  "tipo": "metro",
+  "categoria": "Estación de Metro",
+  "nombre": "Metro Plaza Chacabuco",
+  "lat": -33.406435,
+  "lon": -70.660871
+ },
+ {
+  "tipo": "metro",
+  "categoria": "Estación de Metro",
+  "nombre": "Metro Quinta Normal",
+  "lat": -33.440395,
+  "lon": -70.680446
+ },
+ {
+  "tipo": "metro",
+  "categoria": "Estación de Metro",
+  "nombre": "Metro Rodrigo de Araya",
+  "lat": -33.478073,
+  "lon": -70.622192
+ },
+ {
+  "tipo": "metro",
+  "categoria": "Estación de Metro",
+  "nombre": "Metro Cumming",
+  "lat": -33.439081,
+  "lon": -70.668727
+ },
+ {
+  "tipo": "metro",
+  "categoria": "Estación de Metro",
+  "nombre": "Metro Grecia",
+  "lat": -33.469598,
+  "lon": -70.576022
+ },
+ {
+  "tipo": "metro",
+  "categoria": "Estación de Metro",
+  "nombre": "Metro Rojas Magallanes",
+  "lat": -33.535751,
+  "lon": -70.592853
+ },
+ {
+  "tipo": "metro",
+  "categoria": "Estación de Metro",
+  "nombre": "Metro Rondizzoni",
+  "lat": -33.470183,
+  "lon": -70.656325
+ },
+ {
+  "tipo": "metro",
+  "categoria": "Estación de Metro",
+  "nombre": "Metro República",
+  "lat": -33.447704,
+  "lon": -70.666738
+ },
+ {
+  "tipo": "metro",
+  "categoria": "Estación de Metro",
+  "nombre": "Metro Quilín",
+  "lat": -33.488276,
+  "lon": -70.580248
+ },
+ {
+  "tipo": "metro",
+  "categoria": "Estación de Metro",
+  "nombre": "Metro Salvador",
+  "lat": -33.432823,
+  "lon": -70.625935
+ },
+ {
+  "tipo": "metro",
+  "categoria": "Estación de Metro",
+  "nombre": "Metro Santiago Bueras",
+  "lat": -33.496779,
+  "lon": -70.757302
+ },
+ {
+  "tipo": "metro",
+  "categoria": "Estación de Metro",
+  "nombre": "Metro Simón Bolívar",
+  "lat": -33.446107,
+  "lon": -70.571867
+ },
+ {
+  "tipo": "metro",
+  "categoria": "Estación de Metro",
+  "nombre": "Metro Santa Isabel",
+  "lat": -33.446967,
+  "lon": -70.630519
+ },
+ {
+  "tipo": "metro",
+  "categoria": "Estación de Metro",
+  "nombre": "Metro San Joaquín",
+  "lat": -33.498833,
+  "lon": -70.615762
+ },
+ {
+  "tipo": "metro",
+  "categoria": "Estación de Metro",
+  "nombre": "Metro San José de la Estrella",
+  "lat": -33.553463,
+  "lon": -70.586562
+ },
+ {
+  "tipo": "metro",
+  "categoria": "Estación de Metro",
+  "nombre": "Metro Santa Julia",
+  "lat": -33.531105,
+  "lon": -70.605538
+ },
+ {
+  "tipo": "metro",
+  "categoria": "Estación de Metro",
+  "nombre": "Metro Santa Lucía",
+  "lat": -33.442602,
+  "lon": -70.645014
+ },
+ {
+  "tipo": "metro",
+  "categoria": "Estación de Metro",
+  "nombre": "Metro San Miguel",
+  "lat": -33.488729,
+  "lon": -70.651106
+ },
+ {
+  "tipo": "metro",
+  "categoria": "Estación de Metro",
+  "nombre": "Metro San Pablo",
+  "lat": -33.444865,
+  "lon": -70.723021
+ },
+ {
+  "tipo": "metro",
+  "categoria": "Estación de Metro",
+  "nombre": "Metro San Ramón",
+  "lat": -33.541256,
+  "lon": -70.643032
+ },
+ {
+  "tipo": "metro",
+  "categoria": "Estación de Metro",
+  "nombre": "Metro Santa Rosa",
+  "lat": -33.542416,
+  "lon": -70.634111
+ },
+ {
+  "tipo": "metro",
+  "categoria": "Estación de Metro",
+  "nombre": "Metro Tobalaba",
+  "lat": -33.41812,
+  "lon": -70.601929
+ },
+ {
+  "tipo": "metro",
+  "categoria": "Estación de Metro",
+  "nombre": "Metro Toesca",
+  "lat": -33.452974,
+  "lon": -70.658582
+ },
+ {
+  "tipo": "metro",
+  "categoria": "Estación de Metro",
+  "nombre": "Metro Trinidad",
+  "lat": -33.546932,
+  "lon": -70.587818
+ },
+ {
+  "tipo": "metro",
+  "categoria": "Estación de Metro",
+  "nombre": "Metro Universidad Católica",
+  "lat": -33.439878,
+  "lon": -70.639969
+ },
+ {
+  "tipo": "metro",
+  "categoria": "Estación de Metro",
+  "nombre": "Metro Universidad de Santiago",
+  "lat": -33.452711,
+  "lon": -70.686188
+ },
+ {
+  "tipo": "metro",
+  "categoria": "Estación de Metro",
+  "nombre": "Metro Villa Frei",
+  "lat": -33.454816,
+  "lon": -70.580146
+ },
+ {
+  "tipo": "metro",
+  "categoria": "Estación de Metro",
+  "nombre": "Metro Vivaceta",
+  "lat": -33.385377,
+  "lon": -70.679303
+ },
+ {
+  "tipo": "metro",
+  "categoria": "Estación de Metro",
+  "nombre": "Metro Vicuña Mackenna",
+  "lat": -33.519824,
+  "lon": -70.596213
+ },
+ {
+  "tipo": "metro",
+  "categoria": "Estación de Metro",
+  "nombre": "Metro Vicente Valdés",
+  "lat": -33.526388,
+  "lon": -70.596854
+ },
+ {
+  "tipo": "metro",
+  "categoria": "Estación de Metro",
+  "nombre": "Metro Zapadores",
+  "lat": -33.391309,
+  "lon": -70.642581
+ },
+ {
+  "tipo": "hospital",
+  "categoria": "Hospital / centro de salud",
+  "nombre": "Estación Hospital",
+  "lat": -33.868235,
+  "lon": -70.745938
+ }
+]
